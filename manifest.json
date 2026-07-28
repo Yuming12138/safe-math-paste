@@ -1,0 +1,10 @@
+{
+	"id": "safe-math-paste",
+	"name": "Safe Math Paste",
+	"version": "1.0.0",
+	"minAppVersion": "1.12.7",
+	"description": "Convert AI-generated LaTeX delimiters to Obsidian Markdown automatically when pasting.",
+	"author": "Yuming12138",
+	"authorUrl": "https://github.com/Yuming12138",
+	"isDesktopOnly": false
+}
