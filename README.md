@@ -45,7 +45,8 @@ Until Safe Math Paste is listed in the Obsidian Community directory, you can ins
 1. Install and enable BRAT from **Settings → Community plugins**.
 2. Run **BRAT: Add a beta plugin for testing** from the command palette.
 3. Enter `Yuming12138/safe-math-paste`.
-4. Enable **Safe Math Paste** in **Settings → Community plugins**.
+4. If BRAT shows a version selector, choose `1.0.0 (Prerelease)`.
+5. Enable **Safe Math Paste** in **Settings → Community plugins**.
 
 ## Manual installation
 
